@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-i am m ajoring artificial intellegence and i am recently starting github
+i am majoring artificial intellegence and i am recently starting github
